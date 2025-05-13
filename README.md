@@ -1,2 +1,2 @@
 # brinquedo_mvc
-Projeto didático para deploy
+Projeto didático para Spring MVC Web estático.
